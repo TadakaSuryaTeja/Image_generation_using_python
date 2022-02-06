@@ -103,6 +103,6 @@ if __name__ == "__main__":
     """
     Based on the requirements we need to uncomment the below functions and utilize
     """
-    generate_all_imgs()
+    # generate_all_imgs()
     # renaming_files(folder_name="characters")
-    # generate_random_imgs(5)
+    generate_random_imgs(5)
